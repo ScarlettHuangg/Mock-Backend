@@ -1,4 +1,4 @@
-[
+
       {
         title: "Futurama",
         id: 1,
@@ -16,5 +16,5 @@
         id: 3,
         img: "http://cdn1.nflximg.net/webp/7451/11317451.webp"
       }
-]
+
 
