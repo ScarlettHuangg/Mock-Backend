@@ -1,8 +1,5 @@
-
-      {
-        title: "Futurama",
-        id: 1,
-        img: "http://cdn1.nflximg.net/webp/7621/3787621.webp"
-      }
-
-
+{
+      title: "Futurama",
+      id: 1,
+      img: "http://cdn1.nflximg.net/webp/7621/3787621.webp"
+}
